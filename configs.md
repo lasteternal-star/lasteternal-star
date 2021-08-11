@@ -7,7 +7,7 @@
 #### Preferred Client: Modded, doesn't matter what version
 #### Current Client: Forge with Custom Chosen Mods
 #### Preferred Version: 1.8 or 1.7
-#### Hypixel Mods:
+#### Hypixel Modset:
 - Sk1er's Patcher (Fixes vanilla issues and performance bugs)
 - Sk1er's Levelhead, Hytilities, Essenial, and Keystrokes (For fancy stuff and anti-ads.)
 - FoamFix Anarchy (Reduce the memory workload and other fixes.)
@@ -27,3 +27,43 @@ https://www.curseforge.com/minecraft/mc-mods/betterfps
 https://www.curseforge.com/minecraft/mc-mods/better-chat
 https://www.curseforge.com/minecraft/mc-mods/better-hud
 https://www.curseforge.com/minecraft/mc-mods/craftpresence
+
+
+# Mod Profiles
+## 1.7
+- FastCraft (Performance fixes)
+- Optifine (Performance and extra features)
+- Uplink (Discord Rich Presence)
+
+## 1.12
+- VanillaFix
+- Optifine
+
+
+## 1.16 Fabric
+- Smooth Boot
+- Entity Culling
+- Of course, the Fabric API
+- Sodium
+- Lithium
+- Starlight
+- FerriteCore
+- Boosted Brightness
+- BetterBeds
+- Hydrogen
+- LazyDFU
+- Xaero's Minimap
+- ModMenu
+
+## 1.16 Forge
+- Mixin Compatabilty (IMPORTANT)
+- AI Improvements
+- CraftPresence
+- Entity Culling
+- FerriteCore
+- LazyDFU
+- MixinBootstrap
+- Performant
+- RandomPatches
+- SmoothBoot
+- Starlight
