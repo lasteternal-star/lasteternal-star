@@ -1,5 +1,5 @@
 # Minecraft
-#### Launcher: ATLauncher
+#### Launcher: MultiMC
 #### Account Type: Microsoft
 
 
@@ -18,6 +18,7 @@
 - BetterHUD (Blood splatters and other optional elements)
 - MumbleLink (not needed if you do not have a mic and/or use mumble)
 - CraftPresence (Discord Rich Presence, since I do not prefer using ATL's presence.)
+- Insomnia (anti-dream skin mod)
 
 ### Links:
 https://sk1er.club/
