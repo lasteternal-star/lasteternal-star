@@ -1,1 +1,10 @@
-
+- Treat everyone with respect. Don't use slurs or offending/discriminating content, be respectful of other people's opinions, and treat people the way you want to be treated!
+- Please follow Discord's TOS. Rare exceptions are rare, but mostly still required to be followed.
+Guidelines: https://discordapp.com/guidelines
+- Keep your aggressiveness down when arguing with staff about your punishment.
+- Anything against the law in the US or Canada cannot and will not be encourged. You wouldn't download a car!
+- Please do not spam messages a lot.
+- Only advertise in the self promo channel, not in a user's DMs or otherwise.
+- If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!
+- No NSFW or obscene content. In other words, if you wouldn't send it to your loved ones, you shouldn't send it at all.
+- Your username must be SFW and cannot contain a banned word. Use a nickname if you are required to keep your username for a temporary amount of time. I.E: a dare
