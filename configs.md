@@ -16,9 +16,12 @@
 - BetterChat (Message clumping, transparent and animated chat, and custom configuring. Sometimes keeps the chat open in cases where it'd close, good for typing in the beginning of duels without being interrupted.)
 - Glint Colorizer (Fancy eye candy, changes enchantment colors to whatever you want.)
 - BetterHUD (Blood splatters and other optional elements)
-- MumbleLink (not needed if you do not have a mic and/or use mumble)
-- CraftPresence (Discord Rich Presence, since I do not prefer using ATL's presence.)
+- MumbleLink (mumble proximity chat)
+- CraftPresence (Discord Rich Presence)
 - Insomnia (anti-dream skin mod)
+- Chat Triggers (client-sided ranks and other quality of life features)
+- Optifine
+- Sk1er's TNT Timer
 
 ### Links:
 https://sk1er.club/
@@ -39,6 +42,13 @@ https://www.curseforge.com/minecraft/mc-mods/craftpresence
 ## 1.12
 - VanillaFix
 - Optifine
+- Entity Culling
+- Particle Culling
+- Phosphor
+- RandomPatches
+- TexFix
+- RandomTitle Legacy
+- Menu Mobs
 
 
 ## 1.16 Fabric
