@@ -8,3 +8,4 @@ Guidelines: https://discordapp.com/guidelines
 - If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!
 - No NSFW or obscene content. In other words, if you wouldn't send it to your loved ones, you shouldn't send it at all.
 - Your username must be SFW and cannot contain a banned word. Use a nickname if you are required to keep your username for a temporary amount of time. I.E: a dare
+- Common Sense, yo! If you think it wouldn't be a good idea, it probably isn't!
