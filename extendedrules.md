@@ -2,10 +2,12 @@
 - Please follow Discord's TOS. Rare exceptions are rare, but mostly still required to be followed.
 Guidelines: https://discordapp.com/guidelines
 - Keep your aggressiveness down when arguing with staff about your punishment.
-- Anything against the law in the US or Canada cannot and will not be encourged. You wouldn't download a car!
+- Anything against the law in the US or Canada will not be encouraged by us, and a user is not allowed to encourage it either. You wouldn't download your mother's opinions!
 - Please do not spam messages a lot.
 - Only advertise in the self promo channel, not in a user's DMs or otherwise.
 - If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!
 - No NSFW or obscene content. In other words, if you wouldn't send it to your loved ones, you shouldn't send it at all.
-- Your username must be SFW and cannot contain a banned word. Use a nickname if you are required to keep your username for a temporary amount of time. I.E: a dare
+- Your nickname cannot contain sexist, racist, threatening, or otherwise NSFW content. If your username has explict or possibly offending content, a nickname will not 
 - Common Sense, yo! If you think it wouldn't be a good idea, it probably isn't!
+- Please do not harass my trusted+ users. If you feel uncomfortable by them, message me and I will investigate myself.
+- Do not take away a user's ability to vent in the vent channel. This includes posting offtopic content, telling people to stop ranting or that nobody cares, invalidating their opinions through the rant, taking offense to a different opinion, etc. They need that right, they might need to get it off their chest!
