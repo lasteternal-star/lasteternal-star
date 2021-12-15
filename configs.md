@@ -1,16 +1,16 @@
 # Minecraft
-#### Launcher: MultiMC
-#### Account Type: Microsoft
+### Launcher: ATLauncher
+### Account Type: Microsoft
 
 
 # Client and Modding
-#### Preferred Client: Modded, doesn't matter what version
-#### Current Client: Forge with Custom Chosen Mods
-#### Preferred Version: 1.8 or 1.7
+#### Preferred Client: Forge
+#### Current Client: Forge (1.8.9 or Fabric (1.17.1) with select mods
+#### Preferred Version: 1.8.9 or 1.12.2
 #### Hypixel Modset:
 - Sk1er's Patcher (Fixes vanilla issues and performance bugs)
 - Sk1er's Levelhead, Hytilities, Essenial, and Keystrokes (For fancy stuff and anti-ads.)
-- FoamFix Anarchy (Reduce the memory workload and other fixes.)
+- FoamFix (Reduce the memory workload and other fixes.)
 - TexFix (Fix textures bugs. Useful if you use high resolution textures and need more RAM.)
 - BetterFPS (Misc performance fixes. May be bannable on Hypixel, use at your own risk.)
 - BetterChat (Message clumping, transparent and animated chat, and custom configuring. Sometimes keeps the chat open in cases where it'd close, good for typing in the beginning of duels without being interrupted.)
@@ -38,6 +38,9 @@ https://www.curseforge.com/minecraft/mc-mods/craftpresence
 - FastCraft (Performance fixes)
 - Optifine (Performance and extra features)
 - Uplink (Discord Rich Presence)
+- FoamFix
+- Keystrokes
+- BetterHUD
 
 ## 1.12
 - VanillaFix
@@ -78,3 +81,17 @@ https://www.curseforge.com/minecraft/mc-mods/craftpresence
 - RandomPatches
 - SmoothBoot
 - Starlight
+
+## 1.17 Fabric (SMPs)
+- Cull Leaves
+- Entity Culling
+- Of course, Fabric API.
+- FerriteCore
+- Hydrogen
+- LambDymanic Lights
+- LazyDFU
+- Lithium
+- Mod Menu
+- Sodium
+- Starlight
+- Xaero's Minimap
