@@ -1,8 +1,7 @@
 # I'm EternalStar, the guy behind:
-- Project Radiation
-- ROBLOX through Time
+- Project Phoenix
+- Novetus Nexttime Nuker
 - A Land for Legends
-- Project Figures
 - The Gallery and Ways to Get Kicked
 - RewindCraft
 - APC Wiki
