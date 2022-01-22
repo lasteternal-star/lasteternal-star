@@ -1,10 +1,8 @@
 # I'm EternalStar, the guy behind:
 - Project Phoenix
 - Novetus Nexttime Nuker
-- A Land for Legends
+- Cloverfield
 - The Gallery and Ways to Get Kicked
-- RewindCraft
-- APC Wiki
 
 # About Me
 - I can setup an innosetup installer for you.
